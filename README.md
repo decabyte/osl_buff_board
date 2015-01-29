@@ -1,7 +1,7 @@
 OSL I2C Buffer Board
 ====================
 
-The __OSL I2C Buffer Board__ is a small 2-layer pcb design for extending the range of existing I2C buses by using a common I2C buffer chip. This board should be used together with a sister one, providing thus buffering up to 4 different I2C bus. Alternatively it can be used with the __[OSL Buff Board](https://github.com/decabyte/osl_buff_board)__. in case a more complex configuration is needed, for instance, in the case of motor control.
+The __OSL I2C Buffer Board__ is a small 2-layer pcb design for extending the range of existing I2C buses by using a common I2C buffer chip. This board should be used together with a sister one, providing thus buffering up to 4 different I2C bus. Alternatively it can be used with the __[OSL MUX Board](https://github.com/decabyte/osl_mux_board)__. in case a more complex configuration is needed, for instance, in the case of motor control.
 
 ![layout_pcb](docs/buff_board_final_pcb.png)
 
